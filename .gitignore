@@ -1,0 +1,6 @@
+#Ignore binary files
+*.png
+*.jpg
+*.mov
+*.mp3
+*.mp4
