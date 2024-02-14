@@ -4,3 +4,16 @@
 *.mov
 *.mp3
 *.mp4
+
+#Ignored script extensions
+*.rpyc
+*.rpymc
+
+#Ignored base folder files
+errors.txt
+log.txt
+traceback.txt
+
+#Ignored default folders
+/cache
+/saves 
