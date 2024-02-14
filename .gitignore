@@ -16,4 +16,7 @@ traceback.txt
 
 #Ignored default folders
 /cache
-/saves 
+/saves
+
+#PDF
+.pdf
